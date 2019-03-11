@@ -3,4 +3,4 @@
 Jessica Wong
 
 Code Description: <br>
-Implementation of a binary search on vectors.
+Implementation of a binary search on vectors. (C++)
