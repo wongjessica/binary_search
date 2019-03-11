@@ -14,11 +14,8 @@ for (int i=0; i<4000000; i++) my_numbers.push_back(i);
 cout << "Size of vector my_nymbers :" << my_numbers.size() << endl; 
 	Binary_Search(my_numbers, 2);
 	Binary_Search(my_numbers, 23);
-	Binary_Search(my_numbers, 234);
-	Binary_Search(my_numbers, 7655);
-	Binary_Search(my_numbers, 10101);
-	Binary_Search(my_numbers, 895543);
-	Binary_Search(my_numbers, 3785111);
+	Binary_Search(my_numbers, 534);
+
 
 return 0;
 }
